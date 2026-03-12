@@ -42,17 +42,17 @@
 
 这个 README 是项目唯一的流程说明。README、脚本行为、CSV 结果必须一致；如果三者冲突，应先修代码并全量重建结果，而不是继续沿用旧产物。
 
-### 如何使用（人类用户看这里）
+### 如何使用（给人类用户）
 
-这是一个 **AI 智能体工作流项目**，你不需要手动敲任何代码或命令：
+这是一个 **AI 智能体工作流项目**。普通用户不需要手动研究下面那些 CSV 规则、字段口径和脚本细节。
 
-1. **准备数据**：清空自带的 `books_working.csv`，填入你的待读书单。**你只需要提供一列 `title`（书名）即可**，如果是生僻书可以再加一列 `author`（作者）。其它所有的元数据、ID、链接，脚本和 AI 都会自动去抓取填写。
-2. **唤醒 AI**：在编辑器里打开 AI 对话框（如 Cursor、GitHub Copilot），直接对 AI 说：
-   > “请阅读 README 的规则，先帮我运行 `workflow_processor.py` 更新 metadata，然后再运行 `workflow_build_final_views.py` 完成主题聚类。”
-3. **喝杯咖啡**：AI 会自动阅读下方的复杂规则，为你跑通脚本、处理抓取报错、推导聚合主题，并生成最终阅读清单。
+1. **粘贴书单**：打开 `booklist_inbox.md`，把你的待读书单直接粘进去。一行一本书即可；最简单时只写书名，如果书名容易重名，再补一个作者。
+2. **不要手动整理 CSV**：普通用户不需要自己编辑 `books_working.csv`，也不需要手动填写 `isbn`、`douban_url`、`douban_id` 之类的 metadata。
+3. **唤醒 AI**：在编辑器里打开 AI 对话框（如 Cursor、GitHub Copilot），让 AI 先读取 `booklist_inbox.md`，再帮你整理输入、清理旧结果并完成整个流程。
+4. **查看结果**：最终重点看 `q1_catalog.csv`、`book_final_view.csv`、`q1_unassigned_books.csv` 这三张结果表；其它中间文件如果出现，属于实现细节，不是普通用户需要关心的最终交付物。
 
---- 
-> ⚠️ **以下内容是写给 AI 看的系统规则（SOP）。人类用户完全不需要了解，看到这就可以去唤醒 AI 了，让 AI 往下读就行。**
+---
+> ⚠️ 以下内容主要写给 AI 与维护者，用来约束流程行为。普通用户看到这里就够了。
 ---
 
 ### CSV 合同
@@ -152,12 +152,15 @@
 4. 确认 `book_final_view.csv` 中没有“空着但不解释”的状态。
 5. 确认 `q1_catalog.csv` 中不再出现明显过宽或单书占位的 Q1。
 
-### AI 自动执行的具体顺序（给 AI 的指令）
+### AI 执行顺序
 
-当用户唤醒 AI 执行流程时，AI 必须严格按以下顺序执行：
-1. 先运行 `workflow_processor.py` 更新 metadata。
-2. 再运行 `workflow_build_final_views.py` 重建所有派生产物。
-3. 如果执行中发现需要修改规则，一旦规则变了，AI 必须全量重建，不允许继续沿用旧 CSV。
+当用户要求 AI 跑完整个流程时，AI 必须按下面的顺序执行：
+
+1. 先读取 `booklist_inbox.md` 中的书单内容，把用户输入整理成 `books_working.csv` 需要的结构。
+2. 如果这是一次新的书单整理任务，AI 应先清空或重建旧的派生产物，避免把上一轮结果混入本轮流程。
+3. 运行 `workflow_processor.py`，完成 metadata 匹配、状态更新和断点续跑。
+4. 运行 `workflow_build_final_views.py`，重建 `raw_q2_entries.csv`、`q1_catalog.csv`、`book_final_view.csv`、`q1_unassigned_books.csv`。
+5. 只要流程规则发生变化，就必须全量重建，不允许继续沿用旧 CSV。
 
 ---
 
@@ -193,25 +196,25 @@ The goal is not to invent broad themes first and force books into them. The goal
 
 This README is the single source of truth for the workflow. The README, the scripts, and the generated CSV outputs must agree. If they diverge, fix the code and regenerate the outputs instead of trusting stale files.
 
+### How To Use (For Human Users)
+
+This is an **AI agent workflow project**. Ordinary users do not need to study the CSV rules, field contracts, or script details below.
+
+1. **Paste your reading list**: Open `booklist_inbox.md` and paste your backlog there. One book per line is enough. In the simplest case, just provide the title. If a title is likely to be ambiguous, add the author as well.
+2. **Do not hand-edit CSV files**: Ordinary users do not need to edit `books_working.csv` manually, and do not need to fill in fields such as `isbn`, `douban_url`, or `douban_id`.
+3. **Wake up the AI**: Open the AI chat panel in your editor, such as Cursor or GitHub Copilot, and ask the AI to read `booklist_inbox.md`, prepare the structured input, clear old outputs if needed, and complete the workflow.
+4. **Read the final outputs**: The main files you should care about are `q1_catalog.csv`, `book_final_view.csv`, and `q1_unassigned_books.csv`. If other intermediate files appear during execution, they are implementation details rather than end-user deliverables.
+
+---
+> ⚠️ The content below is mainly written for the AI agent and maintainers to constrain workflow behavior. Ordinary users can stop here.
+---
+
 ### CSV Contract
 
 The project directory keeps exactly 5 operational CSV files:
 
 1. `books_working.csv`
-2. `How To Use (For Human Users)
-
-This is an **AI Agent workflow project**. You do not need to write code or run commands manually:
-
-1. **Prepare Data**: Clear the default `books_working.csv` and paste your own reading list. **You only need to provide the `title` column.** (You may optionally provide `author` for rare books.) The AI and scripts will automatically scrape and fill in all other metadata, IDs, and links.
-2. **Instruct the AI**: Open your AI chat panel (e.g., Cursor, GitHub Copilot) and simply tell the AI:
-   > "Please read the README rules, run `workflow_processor.py` first to update metadata, and then run `workflow_build_final_views.py` to finish the thematic clustering."
-3. **Let the AI Work**: The AI will automatically read the complex rules below, run the scripts, fix any scraping errors, analyze themes, and generate your reading list.
-
---- 
-> ⚠️ **The content below consists of Standard Operating Procedures (SOPs) explicitly written for the AI Agent. Human users can stop reading here.**
----
-
-### raw_q2_entries.csv`
+2. `raw_q2_entries.csv`
 3. `q1_catalog.csv`
 4. `book_final_view.csv`
 5. `q1_unassigned_books.csv`
@@ -290,22 +293,25 @@ You do not need to follow a three-step chain like “Q1 -> Q2 -> book”.
 
 At minimum, use one of these:
 
-1. `AI Execution Sequence (Instructions for AI)
+1. `metadata_not_matched`
+2. `metadata_ambiguous`
+3. `theme_inference_low_confidence`
+4. `q1_cluster_not_stable`
 
-When the user asks the AI to run the workflow, the AI must strictly follow this order:
-1. Run `workflow_processor.py` first to update metadata.
-2. Run `workflow_build_final_views.py` second to rebuild all derived outputs.
-3. If the run requires modifying the rules, any rule change requiresined blank-state rows.
+### Post-Rebuild Checklist
+
+1. Confirm the directory still contains exactly 5 operational CSV files.
+2. Confirm that books with `metadata_status != matched` do not appear in `raw_q2_entries.csv`.
+3. Confirm that every book without Q1 is visible in `q1_unassigned_books.csv` with a reason.
+4. Confirm that `book_final_view.csv` contains no unexplained blank-state rows.
 5. Confirm that `q1_catalog.csv` contains no obviously overbroad or one-book placeholder Q1 questions.
 
-### Execution Order (AI Agent Driven)
+### AI Execution Order
 
-This is an **AI Agent workflow project**. You do not need to manually open a terminal and run the Python files. These scripts are essentially "Standard Operating Procedures" written for the AI to read and execute.
+When the user asks the AI to run the full workflow, the AI must follow this sequence:
 
-1. **Prepare data**: Replace `books_working.csv` with your own book list. A minimal working example of the CSV headers:
-   | title | author | isbn | douban_url | douban_id |
-   | :--- | :--- | :--- | :--- | :--- |
-   | Book Title | Author | ... | ... | ... |
-2. **Instruct the AI**: Open your AI chat panel (e.g., Cursor, GitHub Copilot) and tell the AI: "Please read the README rules, run `workflow_processor.py` first to update metadata, and then run `workflow_build_final_views.py` to finish the thematic clustering."
-3. **AI Automation**: The AI will automatically read the logic, fix any environment issues, construct LLM prompts, and finish the job for you.
-4. **Rebuild Rule**: Any rule change requires instructing the AI to do a full rebuild. Do not keep using old CSV outputs after logic changes.
+1. Read the reading list from `booklist_inbox.md` and convert the user input into the structure required by `books_working.csv`.
+2. If this is a new reading-list job, clear or rebuild old derived outputs first so that results from the previous run do not leak into the new run.
+3. Run `workflow_processor.py` to complete metadata matching, status updates, and resumable processing.
+4. Run `workflow_build_final_views.py` to rebuild `raw_q2_entries.csv`, `q1_catalog.csv`, `book_final_view.csv`, and `q1_unassigned_books.csv`.
+5. Whenever the workflow rules change, the AI must do a full rebuild rather than continue using stale CSV outputs.
