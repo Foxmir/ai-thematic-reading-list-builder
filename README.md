@@ -309,10 +309,3 @@ This is an **AI Agent workflow project**. You do not need to manually open a ter
 2. **Instruct the AI**: Open your AI chat panel (e.g., Cursor, GitHub Copilot) and tell the AI: "Please read the README rules, run `workflow_processor.py` first to update metadata, and then run `workflow_build_final_views.py` to finish the thematic clustering."
 3. **AI Automation**: The AI will automatically read the logic, fix any environment issues, construct LLM prompts, and finish the job for you.
 4. **Rebuild Rule**: Any rule change requires instructing the AI to do a full rebuild. Do not keep using old CSV outputs after logic changes.
-
-### Open Source And Portability Notes
-
-1. The scripts use paths relative to the project directory, so the entire `book-question-workflow` folder can be moved safely.
-2. The `.venv` path or absolute Python path seen in local terminals is not part of the project contract; it is only a local execution environment.
-3. No obvious API keys, tokens, cookies, passwords, private keys, or user absolute paths were found inside the project directory during review.
-4. `douban_workflow_helper.js` uses public web requests and does not embed account credentials.
