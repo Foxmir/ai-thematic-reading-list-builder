@@ -1,0 +1,174 @@
+﻿book_id,title,author,reading_status,metadata_status,metadata_confidence,matched_title,matched_author,douban_url,isbn,rating,notes
+1,有限与无限的游戏：一个哲学家眼中的竞技世界,[美]詹姆斯·卡斯,metadata-ready,matched,1.00,有限与无限的游戏,[美] 詹姆斯·卡斯,https://book.douban.com/subject/33438841/,9787121364259,8.1,
+2,具身认知：身体如何影响心智,盖伊·克莱斯顿,metadata-ready,matched,0.96,具身认知,[英]盖伊·克莱斯顿,https://book.douban.com/subject/35565578/,9787521734232,6.8,
+3,What if？那些古怪又让人忧心的问题,兰道尔·门罗,metadata-ready,matched,0.76,那些古怪又让人忧心的问题又来了,[美] 兰道尔·门罗,https://book.douban.com/subject/36246468/,9787574207653,8.5,
+4,国家的视角：那些试图改善人类状况的项目是如何失败的,詹姆斯·C.斯科特,metadata-ready,matched,1.00,国家的视角,詹姆斯・C・斯科特,https://book.douban.com/subject/1190181/,9787801902184,8.3,
+5,诚实的信号,[美]阿莱克斯·彭特兰,metadata-ready,matched,1.00,诚实的信号,[美] 阿莱克斯·彭特兰,https://book.douban.com/subject/34942785/,9787553698212,7.6,
+6,同步：秩序如何从混沌中涌现,斯蒂芬·斯托加茨,metadata-ready,matched,0.96,同步,[美] 斯蒂芬·斯托加茨,https://book.douban.com/subject/30192338/,9787220106958,7.6,
+7,混合信号,尤里·格尼茨,metadata-ready,matched,0.95,混合信号,[美] 尤里·格尼茨,https://book.douban.com/subject/36623489/,9787521756319,7.5,
+8,想象的共同体,本尼迪克特·安德森,metadata-ready,matched,1.00,想象的共同体,本尼迪克特·安德森,https://book.douban.com/subject/1315190/,9787208054028,8.8,
+9,自我分析与自我实现,卡伦·霍妮,metadata-ready,matched,0.94,自我分析与自我实现,[美]卡伦·霍妮,https://book.douban.com/subject/35329630/,9787201140810,8.9,
+10,是我把你蠢哭了吗,迪安·博内特,metadata-ready,matched,0.95,是我把你蠢哭了吗,[英] 迪安·博内特,https://book.douban.com/subject/35198304/,9787533487379,8.0,
+11,伊甸之东,[美]约翰·斯坦贝克,metadata-ready,matched,1.00,伊甸之东,[美]约翰·斯坦贝克,https://book.douban.com/subject/36710568/,9787572615931,9.1,
+12,咨询的奥秘：寻求和提出建议的智慧,[美]杰拉尔德·M.温伯格,metadata-ready,matched,0.74,咨询的奥秘,Gerald M. Weinberg,https://book.douban.com/subject/25785829/,9787115337481,8.0,
+13,为什么：关于因果关系的新科学,[美]朱迪亚·珀尔 [美]达纳·麦肯齐,metadata-ready,matched,1.00,为什么,[美] 朱迪亚·珀尔 / [美] 达纳·麦肯齐,https://book.douban.com/subject/33438811/,9787521705072,8.6,
+17,什么是权力？,[德]韩炳哲,metadata-ready,matched,1.00,什么是权力？,[德]韩炳哲,https://book.douban.com/subject/36290758/,9787521753820,7.7,
+18,夜莺与玫瑰,[英]奥斯卡·王尔德,metadata-ready,matched,1.00,夜莺与玫瑰,[英] 奥斯卡·王尔德,https://book.douban.com/subject/26344078/,9787533941611,9.0,
+19,复杂,梅拉妮·米歇尔,metadata-ready,matched,1.00,复杂,梅拉妮·米歇尔,https://book.douban.com/subject/6749832/,9787535767134,9.0,
+20,规则的悖论,大卫·格雷伯,metadata-ready,matched,1.00,规则的悖论,大卫·格雷伯,https://book.douban.com/subject/36191434/,9787521749816,8.6,
+21,人性中的善良天使：暴力为什么会减少,斯蒂芬·平克,metadata-ready,matched,0.95,人性中的善良天使,[美]斯蒂芬·平克,https://book.douban.com/subject/26150549/,9787508648583,8.5,
+22,自私的基因,理查德·道金斯,metadata-ready,matched,0.96,自私的基因,[英]理查德·道金斯,https://book.douban.com/subject/11445548/,9787508634159,8.4,
+23,原型与集体无意识,[瑞士]卡尔·古斯塔夫·荣格,metadata-ready,matched,0.94,原型与集体无意识,[瑞士] 卡尔·荣格,https://book.douban.com/subject/6068014/,9787512501713,8.3,
+24,项塔兰,[澳]格里高利·大卫·罗伯兹,metadata-ready,matched,1.00,项塔兰,[澳] 格里高利·大卫·罗伯兹,https://book.douban.com/subject/3673771/,9787507525298,8.9,
+25,今日简史：人类命运大议题,尤瓦尔·赫拉利,metadata-ready,matched,0.96,今日简史,[以] 尤瓦尔·赫拉利,https://book.douban.com/subject/30259720/,9787508692098,8.1,
+26,未来简史：从智人到智神,尤瓦尔·赫拉利,metadata-ready,matched,0.91,未来简史,[以色列] 尤瓦尔·赫拉利,https://book.douban.com/subject/26945094/,9787508672267,8.7,
+27,共时性：心灵与外部世界的有意义巧合,[瑞士]卡尔·古斯塔夫·荣格,metadata-ready,matched,0.94,共时性,[瑞士]卡尔·荣格,https://book.douban.com/subject/37346622/,9787533979782,8.3,
+28,罐头厂街,约翰·斯坦贝克,metadata-ready,matched,1.00,罐头厂街,约翰·斯坦贝克,https://book.douban.com/subject/30388863/,9787020147243,8.3,
+29,How to：如何不切实际地解决实际问题,兰道尔·门罗,metadata-ready,matched,0.88,how to如何不切实际地解决实际问题（精装）,[美]兰道尔·门罗,https://book.douban.com/subject/35048570/,9787557674618,7.8,
+31,地下室手记,[俄]陀思妥耶夫斯基,metadata-ready,matched,1.00,地下室手记,[俄] 陀思妥耶夫斯基,https://book.douban.com/subject/34990839/,9787533960414,9.2,
+32,弱者的武器,詹姆斯·C.斯科特,metadata-ready,matched,0.97,弱者的武器,[美] 詹姆斯·C·斯科特,https://book.douban.com/subject/2030855/,9787544700245,8.5,
+33,背德者,[法]安德烈·纪德,metadata-ready,matched,1.00,背德者,[法] 安德烈·纪德,https://book.douban.com/subject/27012296/,9787505735910,7.7,
+34,无穷的开始：世界进步的本源,戴维·多伊奇,metadata-ready,matched,0.80,无穷的开始,[英]戴维·多伊奇（David Deutsch）,https://book.douban.com/subject/26184242/,9787115365385,8.2,
+35,变化社会中的政治秩序,塞缪尔·P.亨廷顿,metadata-ready,matched,0.94,变化社会中的政治秩序,（美）塞缪尔·P·亨延顿,https://book.douban.com/subject/3163104/,9787208079113,9.3,
+36,从细菌到巴赫再回来,[美]丹尼尔·丹尼特,metadata-ready,matched,1.00,从细菌到巴赫再回来,[美] 丹尼尔·丹尼特,https://book.douban.com/subject/36698428/,9787522910635,7.4,
+37,我们为什么做出不利于自己的行为,马克·郭士顿 菲利普·戈德堡,metadata-ready,matched,0.98,我们为什么做出不利于自己的行为,（美）马克·郭士顿 / 菲利普·戈德堡,https://book.douban.com/subject/35119421/,9787515360454,7.6,
+38,智人之上：从石器时代到 AI 时代的信息网络简史,[以]尤瓦尔·赫拉利,metadata-ready,matched,0.96,智人之上,[以色列] 尤瓦尔·赫拉利,https://book.douban.com/subject/37001305/,9787521768527,8.0,
+39,1493：物种大交换开创的世界史,[美]查尔斯·曼恩,metadata-ready,matched,0.84,1493,查尔斯·曼恩 (Charles C.Mann),https://book.douban.com/subject/26801839/,9787508662558,8.3,
+40,窄门,[法]安德烈·纪德,metadata-ready,matched,1.00,窄门,[法] 安德烈·纪德,https://book.douban.com/subject/30331835/,9787201141527,7.4,
+41,直觉泵和其他思考工具：思维工具解析模型决策逻辑,丹尼尔·丹尼特,metadata-ready,matched,0.96,直觉泵和其他思考工具,[美] 丹尼尔·丹尼特,https://book.douban.com/subject/30340107/,9787553674599,7.6,
+42,作为意志和表象的世界,阿图尔·叔本华,metadata-ready,matched,0.96,作为意志和表象的世界,[德] 阿图尔·叔本华,https://book.douban.com/subject/27078770/,9787100148290,目前无人评价,
+43,巴比伦最富有的人,[美]乔治·S.克拉森,metadata-ready,matched,1.00,巴比伦最富有的人,(美)乔治·S. 克拉森,https://book.douban.com/subject/26628808/,9787547607633,7.6,
+44,清醒思考的艺术,罗尔夫·多贝里,metadata-ready,matched,0.96,清醒思考的艺术,[德] 罗尔夫·多贝里,https://book.douban.com/subject/20492550/,9787508637679,7.7,
+45,焚舟纪,安吉拉·卡特,metadata-ready,matched,0.95,焚舟纪,[英] 安吉拉·卡特,https://book.douban.com/subject/30259677/,9787305204784,8.6,
+46,卓越基因,[美]吉姆·柯林斯 比尔·拉齐尔,metadata-ready,matched,0.99,卓越基因,[美] 吉姆·柯林斯 / [美] 比尔·拉齐尔,https://book.douban.com/subject/35888789/,9787521740387,8.5,
+47,社会学的想象力,[美]C.赖特·米尔斯,metadata-ready,matched,1.00,社会学的想象力,[美] C.赖特·米尔斯,https://book.douban.com/subject/26826786/,9787108057259,8.6,
+48,凯列班与女巫：妇女、身体与原始积累,西尔维娅·费代里奇,metadata-ready,matched,0.97,凯列班与女巫,[意]西尔维娅·费代里奇,https://book.douban.com/subject/36374149/,9787542680525,9.0,
+49,萨德式女人：文化史的操练,安吉拉·卡特,metadata-ready,matched,0.95,萨德式女人,[英]安吉拉·卡特,https://book.douban.com/subject/35490024/,9787305240225,8.4,
+50,罪与罚,陀思妥耶夫斯基,metadata-ready,matched,0.96,罪与罚,[俄] 陀思妥耶夫斯基,https://book.douban.com/subject/25887912/,9787532763702,9.4,
+51,习惯的力量,查尔斯·都希格,metadata-ready,matched,0.96,习惯的力量,[美] 查尔斯·都希格,https://book.douban.com/subject/20507212/,9787508638010,8.0,
+52,谣言：世界最古老的传媒,让-诺埃尔·卡普费雷,metadata-ready,matched,0.97,谣言,（法）让-诺埃尔•卡普费雷,https://book.douban.com/subject/26642264/,9787208133556,7.5,
+53,善恶的彼岸,尼采,metadata-ready,matched,0.91,善恶的彼岸,[德] 尼采,https://book.douban.com/subject/26663535/,9787100117494,9.1,
+54,寻求灵魂的现代人,[瑞士]卡尔·古斯塔夫·荣格,metadata-ready,matched,1.00,寻求灵魂的现代人,[瑞士] 卡尔·古斯塔夫·荣格,https://book.douban.com/subject/22994147/,9787532759491,8.0,
+55,助推,[美]理查德·塞勒 [美]卡斯·桑斯坦,metadata-ready,matched,1.00,助推,[美] 理查德·塞勒 / [美] 卡斯·桑斯坦,https://book.douban.com/subject/30128227/,9787508684918,7.4,
+56,点燃理性的火焰,[瑞典]克里斯特·斯图马克,metadata-ready,matched,1.00,点燃理性的火焰,[瑞典] 克里斯特·斯图马克,https://book.douban.com/subject/36707052/,9787573014498,7.3,
+57,大师和玛格丽特,布尔加科夫,metadata-ready,matched,0.95,大师和玛格丽特,[俄] 布尔加科夫,https://book.douban.com/subject/34455885/,9787532172788,9.1,
+58,紫与黑：K.J.帕克短篇小说集,K.J.帕克,metadata-ready,matched,0.94,紫与黑,[英] K.J.帕克,https://book.douban.com/subject/34841936/,9787536496101,8.9,
+59,六论自发性：自主、尊严，以及有意义的工作和游戏,[美]詹姆斯·C.斯科特,metadata-ready,matched,1.00,六论自发性,[美] 詹姆斯·C. 斯科特,https://book.douban.com/subject/30441554/,9787520142625,8.8,
+60,噪声,[美]丹尼尔·卡尼曼 [法]奥利维耶·西博尼 [美]卡斯·R.桑斯坦,metadata-ready,matched,0.98,噪声,[以色列] 丹尼尔·卡尼曼 / [法] 奥利维耶·西博尼 / [美] 卡斯·R.桑斯坦,https://book.douban.com/subject/35541399/,9787572221354,7.2,
+61,异类：不一样的成功启示录,[加]马尔科姆·格拉德威尔,metadata-ready,matched,1.00,异类,[加] 马尔科姆·格拉德威尔,https://book.douban.com/subject/35178861/,9787521719055,7.9,
+62,查令十字街84号,海莲·汉芙,metadata-ready,matched,0.94,查令十字街84号,[美] 海莲·汉芙,https://book.douban.com/subject/26768309/,9787544762885,8.3,
+63,涅朵奇卡：一个女人的一生,陀思妥耶夫斯基,metadata-ready,matched,1.00,涅朵奇卡,陀思妥耶夫斯基,https://book.douban.com/subject/36504167/,9787532969623,8.7,
+64,大地之上,罗欣顿·米斯特里,metadata-ready,matched,0.92,大地之上,[加拿大]罗欣顿·米斯特里,https://book.douban.com/subject/35268657/,9787545561647,9.4,
+66,爱玛,简·奥斯汀,metadata-ready,matched,0.93,爱玛,简·奥斯丁,https://book.douban.com/subject/1426166/,9787020050031,8.2,
+68,普林斯顿微积分读本,阿德里安·班纳,metadata-ready,matched,0.81,普林斯顿微积分读本,阿德里安·班纳（Adrian Banner）,https://book.douban.com/subject/4926707/,9787115231307,9.0,
+69,绿灯,马修·麦康纳,metadata-ready,matched,1.00,绿灯,马修·麦康纳,https://book.douban.com/subject/35543078/,9789860670776,7.2,
+70,谁动了我的奶酪,斯宾塞·约翰逊,metadata-ready,matched,0.96,谁动了我的奶酪?,[美] 斯宾塞·约翰逊,https://book.douban.com/subject/4722180/,9787508619439,7.7,
+71,谁动了我的奶酪2：走出迷宫,斯宾塞·约翰逊,metadata-ready,matched,0.96,谁动了我的奶酪2,[美]斯宾塞·约翰逊,https://book.douban.com/subject/35139833/,9787521711400,7.8,
+72,轻松主义：让关键的事情变得容易做,[美]格雷戈·麦吉沃恩,metadata-ready,matched,0.96,轻松主义,[英] 格雷戈·麦吉沃恩,https://book.douban.com/subject/35799638/,9787522310893,7.4,
+73,审判,弗兰茨·卡夫卡,metadata-ready,matched,1.00,审判,弗兰茨·卡夫卡,https://book.douban.com/subject/1837654/,9787532128389,8.8,
+74,原则,瑞·达利欧,metadata-ready,matched,0.94,原则,[美] 瑞·达利欧,https://book.douban.com/subject/27608239/,9787508684031,8.3,
+75,坏消息不断,玛格丽特·阿特伍德,metadata-ready,matched,0.97,坏消息不断,[加]玛格丽特·阿特伍德,https://book.douban.com/subject/36371789/,9787547745984,7.8,
+76,温德米尔夫人的扇子,[英]奥斯卡·王尔德,metadata-ready,matched,0.86,温夫人的扇子,[ 英 ] 奥斯卡·王尔德,https://book.douban.com/subject/37211479/,9787550740143,7.8,
+78,焦虑的人,弗雷德里克·巴克曼,metadata-ready,matched,1.00,焦虑的人,弗雷德里克·巴克曼,https://book.douban.com/subject/35539713/,9787201175133,8.5,
+79,阿特拉斯耸耸肩,安·兰德,metadata-ready,matched,0.93,阿特拉斯耸耸肩,(美)安·兰德,https://book.douban.com/subject/20376605/,9787229058548,8.1,
+81,一桩事先张扬的凶杀案,[哥]加西亚·马尔克斯,metadata-ready,matched,0.96,一桩事先张扬的凶杀案,[哥伦比亚] 加西亚·马尔克斯,https://book.douban.com/subject/24382569/,9787544266123,8.7,
+82,从0到1：开启商业与未来的秘密,彼得·蒂尔 布莱克·马斯特斯,metadata-ready,matched,0.98,从0到1,[美] 彼得·蒂尔 / [美] 布莱克·马斯特斯,https://book.douban.com/subject/26297606/,9787508649719,7.5,
+83,两种孤独,[哥]加夫列尔·加西亚·马尔克斯 [秘]马里奥·巴尔加斯·略萨,metadata-ready,matched,0.98,两种孤独,[哥伦比亚]加夫列尔·加西亚·马尔克斯 / [秘鲁] 马里奥·巴尔加斯·略萨,https://book.douban.com/subject/36315505/,9787573505149,7.9,
+85,更富有、更睿智、更快乐：世界顶尖投资者是如何在市场和生活中实现双赢的,威廉·格林,metadata-ready,matched,0.94,更富有、更睿智、更快乐,[英] 威廉·格林,https://book.douban.com/subject/3110321/,9787515365718,8.4,
+86,精神与爱欲,[德]赫尔曼·黑塞,metadata-ready,matched,1.00,精神与爱欲,[德] 赫尔曼·黑塞,https://book.douban.com/subject/35492879/,9787541159817,9.0,
+88,支配与抵抗艺术：潜隐剧本,詹姆斯·C.斯科特,metadata-ready,matched,0.94,支配与抵抗艺术,[美国] 詹姆斯·C·斯科特,https://book.douban.com/subject/35445082/,9787305238420,8.1,
+89,问题就是答案,阿兰·皮斯,metadata-ready,matched,1.00,问题就是答案,阿兰·皮斯,https://book.douban.com/subject/1263603/,9787561429631,7.5,
+90,人工智能：现代方法,斯图尔特·罗素,metadata-ready,matched,0.72,人工智能,Stuart J. Russell / Peter Norvig,https://book.douban.com/subject/6730363/,9787302252955,9.3,
+91,深度学习的数学,涌井良幸 涌井贞美,metadata-ready,matched,0.97,深度学习的数学,[日] 涌井良幸 / [日] 涌井贞美,https://book.douban.com/subject/33414479/,9787115509345,8.4,
+92,Python深度学习,[美]弗朗索瓦·肖莱,metadata-ready,matched,1.00,Python深度学习,[美] 弗朗索瓦·肖莱,https://book.douban.com/subject/30293801/,9787115488763,9.5,
+93,深度学习进阶：自然语言处理,斋藤康毅,metadata-ready,matched,0.91,深度学习进阶,[ 日］ 斋藤康毅,https://book.douban.com/subject/35225413/,9787115547644,9.6,
+95,系统之美,德内拉·梅多斯,metadata-ready,matched,0.96,系统之美,[美] 德内拉•梅多斯,https://book.douban.com/subject/11528220/,9787213050114,8.2,
+96,农民的道义经济学：东南亚的反叛与生存,詹姆斯·C.斯科特,metadata-ready,matched,0.97,农民的道义经济学,[美] 詹姆斯·C. 斯科特,https://book.douban.com/subject/1085487/,9787806571774,8.5,
+97,细雪,[日]谷崎润一郎,metadata-ready,matched,1.00,细雪,[日] 谷崎润一郎,https://book.douban.com/subject/27068645/,9787544767620,8.9,
+98,痴人之爱,[日]谷崎润一郎,metadata-ready,matched,1.00,痴人之爱,[日] 谷崎润一郎,https://book.douban.com/subject/30389937/,9787559628060,7.2,
+99,呼吸秋千,赫塔·米勒,metadata-ready,matched,0.94,呼吸秋千,[德] 赫塔·米勒,https://book.douban.com/subject/36176988/,9787221172341,8.8,
+100,德米安：彷徨少年时,[德]赫尔曼·黑塞,metadata-ready,matched,1.00,德米安,[德] 赫尔曼·黑塞,https://book.douban.com/subject/3578470/,9787208081550,8.9,
+101,荒原狼,[德]赫尔曼·黑塞,metadata-ready,matched,1.00,荒原狼,[德]赫尔曼·黑塞,https://book.douban.com/subject/3131626/,9787532744800,9.0,
+103,原则：应对变化中的世界秩序,瑞·达利欧,metadata-ready,matched,0.94,原则,[美] 瑞·达利欧,https://book.douban.com/subject/35732136/,9787521719499,8.5,
+104,失控：全人类的最终命运和结局,凯文·凯利,metadata-ready,matched,0.94,失控,[美] 凯文·凯利,https://book.douban.com/subject/5375620/,9787513300711,8.6,
+105,高效能人士的七个习惯,史蒂芬·柯维,metadata-ready,matched,0.95,高效能人士的七个习惯,[美] 史蒂芬·柯维,https://book.douban.com/subject/5325618/,9787500695356,8.5,
+106,社会契约论,[法]卢梭,metadata-ready,matched,1.00,社会契约论,[法] 卢梭,https://book.douban.com/subject/1277981/,9787100037259,8.9,
+107,必然,[美]凯文·凯利,metadata-ready,matched,0.97,必然,[美国] 凯文·凯利,https://book.douban.com/subject/26658379/,9787121274534,8.3,
+108,矩阵力量：线性代数全彩图解+微课+Python编程,姜伟生,metadata-ready,matched,0.72,矩阵力量,,https://book.douban.com/subject/36424128/,,9.3,
+109,格特露德,[德]赫尔曼·黑塞,metadata-ready,matched,1.00,格特露德,[德] 赫尔曼·黑塞,https://book.douban.com/subject/36207919/,9787020175833,8.3,
+110,一间自己的房间,[英]伍尔夫,metadata-ready,matched,0.91,一间自己的房间,[英] 弗吉尼亚·伍尔夫,https://book.douban.com/subject/36294867/,9787532791620,8.6,
+111,尤利西斯,[爱尔兰]詹姆斯·乔伊斯,metadata-review,ambiguous-match,0.72,,,,,,search_preview: 尤利西斯 /  | 尤利西斯 /
+14,流行病与社会：从黑死病开始的瘟疫史,弗兰克·M.斯诺登,metadata-review,no-match,0.00,,,,,,processor_error: URLError: <urlopen error _ssl.c:990: The handshake operation timed out>
+15,人的行动,路德维希·冯·米塞斯,metadata-review,no-match,0.00,,,,,,processor_error: URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+16,炼金术之梦,[瑞士]卡尔·古斯塔夫·荣格,metadata-review,no-match,0.40,,,,,,search_preview: 回忆、梦、思考 / [瑞士] 卡尔·古斯塔夫·荣格 | 荣格自传 / （瑞士）卡尔·古斯塔夫·荣格
+30,红书,[瑞士]卡尔·古斯塔夫·荣格,metadata-review,no-match,0.28,,,,,,search_preview: 回忆、梦、思考 / [瑞士] 卡尔·古斯塔夫·荣格 | 荣格自传 / （瑞士）卡尔·古斯塔夫·荣格
+65,在轮下,[德]赫尔曼·黑塞,metadata-review,no-match,0.00,,,,,,processor_error: TimeoutError: The read operation timed out
+67,一人公司,[美]卡丽·莱恩,metadata-review,no-match,0.00,,,,,,processor_error: TimeoutError: The read operation timed out
+77,初识传播学：在信息社会里正确认知自我、他人及世界,埃姆·格里芬,metadata-review,no-match,0.45,,,,,,search_preview: 初识传播学（插图第7版） / [美]埃姆·格里芬（Em Griffin)
+80,那不勒斯四部曲《我的天才女友》《新名字的故事》《离开的，留下的》《失踪的孩子》,埃莱娜·费兰特,metadata-review,no-match,0.38,,,,,,search_preview: 我的天才女友 / [意] 埃莱娜·费兰特 | 新名字的故事 / [意] 埃莱娜·费兰特
+84,金字塔原理大全集,[美]芭芭拉·明托,metadata-review,no-match,0.73,,,,,,search_preview: 金字塔原理 / [美] 芭芭拉·明托 | 金字塔原理 / [美国] 芭芭拉·明托
+87,拖延心理学：越拖越慌？救急指南,简·博克 莱诺拉·袁,metadata-review,no-match,0.00,,,,,,search_preview:
+94,深度学习的数学——使用Python语言,[美]罗纳德·T.纽塞尔,metadata-review,no-match,0.37,,,,,,search_preview: 深度学习的数学 / (美) 罗纳德·T.纽塞尔 (Ronald T. Kneusel)
+102,哈佛经典谈判术：在谈判中创造价值，在谈判中扭转乾坤，助你在谈判中百战百胜,[美]迪帕克·马尔霍特拉 [美]马克斯·巴泽曼,metadata-review,no-match,0.00,,,,,,search_preview:
+112,游戏改变人生,简·麦戈尼格尔,metadata-review,no-match,0.00,,,,,,search_preview:
+113,深度学习推荐系统,王喆,metadata-review,no-match,0.00,,,,,,search_preview:
+114,经济学的思维方式：第13版,[美]保罗·海恩 [美]彼得·勃特克 [美]大卫·普雷契特科,metadata-review,no-match,0.00,,,,,,search_preview:
+115,做对产品,阿尔贝托·索维亚,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+116,白夜,陀思妥耶夫斯基,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+117,权衡：批判性思维的探究与应用,莎伦·白琳 马克·巴特斯比,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+118,雪国,川端康成,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+119,猫眼,玛格丽特·阿特伍德,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+120,数学要素：全彩图解 + 微课 + Python编程,姜伟生,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+121,布鲁克林有棵树,[美]贝蒂·史密斯,metadata-review,no-match,0.00,,,,,,processor_error: URLError: <urlopen error _ssl.c:990: The handshake operation timed out>
+122,宝贵的人生建议,[美]凯文·凯利,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+123,硅谷之火：个人计算机的诞生与衰落,迈克尔·斯韦因 保罗·弗赖伯格,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+124,奈飞文化手册：支撑 827 亿 IP 整合的底层逻辑,帕蒂·麦考德,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+125,纳瓦尔宝典,埃里克·乔根森,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+126,荆棘鸟,考琳·麦卡洛,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+127,反脆弱：从不确定性中获益,纳西姆·尼古拉斯·塔勒布,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+128,裸者与死者,[美]诺曼·梅勒,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+129,金雀花王朝：缔造英格兰的武士国王与王后,丹·琼斯,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+130,规训与惩罚,福柯,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+131,Antigone's Claim: Kinship Between Life and Death,Judith Butler,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+132,人的境况,汉娜·阿伦特,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+133,DK时间线上的全球史,英国DK公司,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+134,Steps to an Ecology of Mind,Gregory Bateson,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+135,科技想要什么,凯文·凯利,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+136,不确定世界的理性选择：判断与决策心理学,[美]雷德·海斯蒂,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+137,常识,托马斯·潘恩,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+138,城堡,卡夫卡,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+139,苦炼,玛格丽特·尤瑟纳尔,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+140,搏击俱乐部,查克·帕拉尼克,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+141,始于极限：女性主义往复书简,[日]上野千鹤子 [日]铃木凉美,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+142,数字城堡,[美]丹·布朗,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+143,项狄传,[英]劳伦斯·斯特恩,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+144,应得的权利：男性特权如何伤害女性,凯特·曼恩,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+145,永久记录,斯诺登,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+146,博弈论与经济行为,摩根斯顿 冯·诺伊曼,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+147,狐狸那时已是猎人,赫塔·米勒,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+148,镜与灯,艾布拉姆斯,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+149,生存的12条法则,乔丹·彼得森,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+150,逃避统治的艺术：东南亚高地的无政府主义历史,詹姆斯·C.斯科特,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+151,午夜之子,萨曼·鲁西迪,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+152,早起的奇迹：那些能够在早晨8:00前改变人生的秘密,Hal Elrod,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+153,"Man, Play and Games",Roger Caillois,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+154,Maps of Meaning,Jordan Peterson,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+155,Getting Things Done: The Art of Stress-Free Productivity,David Allen,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+156,Scaling Your Business with MOD Virtual Professionals,Daniel Ramsey,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+157,The Personal MBA,Josh Kaufman,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+158,The War of Art: Break Through the Blocks and Win Your Inner Creative Battles,Steven Pressfield,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+159,比虚构更离奇真实的故事 / STRANGER THAN FICTION TRUE STORIES,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+160,不平等的童年,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+161,错误的行为,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+162,赢家的诅咒,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+163,哈扎尔辞典,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+164,黑书,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+165,化身,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+166,控制论与科学方法论,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+167,理解漫画,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+168,你的灯亮着吗,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+169,撞车俱乐部,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+170,蚱（游戏、生命与乌托邦）,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+171,游戏引擎：游戏设计全景探秘,Tynan Sylvester,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+172,游戏化实战,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden
+173,游戏设计艺术（第二版）,,metadata-review,no-match,0.00,,,,,,processor_error: HTTPError: HTTP Error 403: Forbidden

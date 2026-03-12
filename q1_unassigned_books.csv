@@ -1,0 +1,135 @@
+﻿book_id,title,author,metadata_status,metadata_reliable,raw_q2_count,reason
+3,What if？那些古怪又让人忧心的问题,兰道尔·门罗,matched,true,2,theme_inference_low_confidence
+9,自我分析与自我实现,卡伦·霍妮,matched,true,2,theme_inference_low_confidence
+10,是我把你蠢哭了吗,迪安·博内特,matched,true,2,theme_inference_low_confidence
+12,咨询的奥秘：寻求和提出建议的智慧,[美]杰拉尔德·M.温伯格,matched,true,2,theme_inference_low_confidence
+20,规则的悖论,大卫·格雷伯,matched,true,2,theme_inference_low_confidence
+21,人性中的善良天使：暴力为什么会减少,斯蒂芬·平克,matched,true,2,theme_inference_low_confidence
+22,自私的基因,理查德·道金斯,matched,true,2,theme_inference_low_confidence
+25,今日简史：人类命运大议题,尤瓦尔·赫拉利,matched,true,2,theme_inference_low_confidence
+26,未来简史：从智人到智神,尤瓦尔·赫拉利,matched,true,2,theme_inference_low_confidence
+28,罐头厂街,约翰·斯坦贝克,matched,true,2,theme_inference_low_confidence
+29,How to：如何不切实际地解决实际问题,兰道尔·门罗,matched,true,2,theme_inference_low_confidence
+31,地下室手记,[俄]陀思妥耶夫斯基,matched,true,2,theme_inference_low_confidence
+32,弱者的武器,詹姆斯·C.斯科特,matched,true,2,theme_inference_low_confidence
+33,背德者,[法]安德烈·纪德,matched,true,2,theme_inference_low_confidence
+34,无穷的开始：世界进步的本源,戴维·多伊奇,matched,true,2,theme_inference_low_confidence
+36,从细菌到巴赫再回来,[美]丹尼尔·丹尼特,matched,true,2,theme_inference_low_confidence
+37,我们为什么做出不利于自己的行为,马克·郭士顿 菲利普·戈德堡,matched,true,2,theme_inference_low_confidence
+40,窄门,[法]安德烈·纪德,matched,true,2,theme_inference_low_confidence
+43,巴比伦最富有的人,[美]乔治·S.克拉森,matched,true,2,theme_inference_low_confidence
+44,清醒思考的艺术,罗尔夫·多贝里,matched,true,2,theme_inference_low_confidence
+45,焚舟纪,安吉拉·卡特,matched,true,2,theme_inference_low_confidence
+46,卓越基因,[美]吉姆·柯林斯 比尔·拉齐尔,matched,true,2,theme_inference_low_confidence
+48,凯列班与女巫：妇女、身体与原始积累,西尔维娅·费代里奇,matched,true,2,theme_inference_low_confidence
+49,萨德式女人：文化史的操练,安吉拉·卡特,matched,true,2,theme_inference_low_confidence
+52,谣言：世界最古老的传媒,让-诺埃尔·卡普费雷,matched,true,2,theme_inference_low_confidence
+55,助推,[美]理查德·塞勒 [美]卡斯·桑斯坦,matched,true,2,theme_inference_low_confidence
+57,大师和玛格丽特,布尔加科夫,matched,true,2,theme_inference_low_confidence
+61,异类：不一样的成功启示录,[加]马尔科姆·格拉德威尔,matched,true,2,theme_inference_low_confidence
+62,查令十字街84号,海莲·汉芙,matched,true,2,theme_inference_low_confidence
+63,涅朵奇卡：一个女人的一生,陀思妥耶夫斯基,matched,true,2,theme_inference_low_confidence
+64,大地之上,罗欣顿·米斯特里,matched,true,2,theme_inference_low_confidence
+66,爱玛,简·奥斯汀,matched,true,2,theme_inference_low_confidence
+69,绿灯,马修·麦康纳,matched,true,2,theme_inference_low_confidence
+70,谁动了我的奶酪,斯宾塞·约翰逊,matched,true,2,theme_inference_low_confidence
+71,谁动了我的奶酪2：走出迷宫,斯宾塞·约翰逊,matched,true,2,theme_inference_low_confidence
+72,轻松主义：让关键的事情变得容易做,[美]格雷戈·麦吉沃恩,matched,true,2,theme_inference_low_confidence
+74,原则,瑞·达利欧,matched,true,2,theme_inference_low_confidence
+75,坏消息不断,玛格丽特·阿特伍德,matched,true,2,theme_inference_low_confidence
+76,温德米尔夫人的扇子,[英]奥斯卡·王尔德,matched,true,2,theme_inference_low_confidence
+79,阿特拉斯耸耸肩,安·兰德,matched,true,2,theme_inference_low_confidence
+81,一桩事先张扬的凶杀案,[哥]加西亚·马尔克斯,matched,true,2,theme_inference_low_confidence
+83,两种孤独,[哥]加夫列尔·加西亚·马尔克斯 [秘]马里奥·巴尔加斯·略萨,matched,true,2,theme_inference_low_confidence
+86,精神与爱欲,[德]赫尔曼·黑塞,matched,true,2,theme_inference_low_confidence
+88,支配与抵抗艺术：潜隐剧本,詹姆斯·C.斯科特,matched,true,2,theme_inference_low_confidence
+89,问题就是答案,阿兰·皮斯,matched,true,2,theme_inference_low_confidence
+97,细雪,[日]谷崎润一郎,matched,true,2,theme_inference_low_confidence
+98,痴人之爱,[日]谷崎润一郎,matched,true,2,theme_inference_low_confidence
+99,呼吸秋千,赫塔·米勒,matched,true,2,theme_inference_low_confidence
+104,失控：全人类的最终命运和结局,凯文·凯利,matched,true,2,theme_inference_low_confidence
+107,必然,[美]凯文·凯利,matched,true,2,theme_inference_low_confidence
+109,格特露德,[德]赫尔曼·黑塞,matched,true,2,theme_inference_low_confidence
+110,一间自己的房间,[英]伍尔夫,matched,true,2,theme_inference_low_confidence
+111,尤利西斯,[爱尔兰]詹姆斯·乔伊斯,ambiguous-match,false,0,metadata_ambiguous
+14,流行病与社会：从黑死病开始的瘟疫史,弗兰克·M.斯诺登,no-match,false,0,metadata_not_matched
+15,人的行动,路德维希·冯·米塞斯,no-match,false,0,metadata_not_matched
+16,炼金术之梦,[瑞士]卡尔·古斯塔夫·荣格,no-match,false,0,metadata_not_matched
+30,红书,[瑞士]卡尔·古斯塔夫·荣格,no-match,false,0,metadata_not_matched
+65,在轮下,[德]赫尔曼·黑塞,no-match,false,0,metadata_not_matched
+67,一人公司,[美]卡丽·莱恩,no-match,false,0,metadata_not_matched
+77,初识传播学：在信息社会里正确认知自我、他人及世界,埃姆·格里芬,no-match,false,0,metadata_not_matched
+80,那不勒斯四部曲《我的天才女友》《新名字的故事》《离开的，留下的》《失踪的孩子》,埃莱娜·费兰特,no-match,false,0,metadata_not_matched
+84,金字塔原理大全集,[美]芭芭拉·明托,no-match,false,0,metadata_not_matched
+87,拖延心理学：越拖越慌？救急指南,简·博克 莱诺拉·袁,no-match,false,0,metadata_not_matched
+94,深度学习的数学——使用Python语言,[美]罗纳德·T.纽塞尔,no-match,false,0,metadata_not_matched
+102,哈佛经典谈判术：在谈判中创造价值，在谈判中扭转乾坤，助你在谈判中百战百胜,[美]迪帕克·马尔霍特拉 [美]马克斯·巴泽曼,no-match,false,0,metadata_not_matched
+112,游戏改变人生,简·麦戈尼格尔,no-match,false,0,metadata_not_matched
+113,深度学习推荐系统,王喆,no-match,false,0,metadata_not_matched
+114,经济学的思维方式：第13版,[美]保罗·海恩 [美]彼得·勃特克 [美]大卫·普雷契特科,no-match,false,0,metadata_not_matched
+115,做对产品,阿尔贝托·索维亚,no-match,false,0,metadata_not_matched
+116,白夜,陀思妥耶夫斯基,no-match,false,0,metadata_not_matched
+117,权衡：批判性思维的探究与应用,莎伦·白琳 马克·巴特斯比,no-match,false,0,metadata_not_matched
+118,雪国,川端康成,no-match,false,0,metadata_not_matched
+119,猫眼,玛格丽特·阿特伍德,no-match,false,0,metadata_not_matched
+120,数学要素：全彩图解 + 微课 + Python编程,姜伟生,no-match,false,0,metadata_not_matched
+121,布鲁克林有棵树,[美]贝蒂·史密斯,no-match,false,0,metadata_not_matched
+122,宝贵的人生建议,[美]凯文·凯利,no-match,false,0,metadata_not_matched
+123,硅谷之火：个人计算机的诞生与衰落,迈克尔·斯韦因 保罗·弗赖伯格,no-match,false,0,metadata_not_matched
+124,奈飞文化手册：支撑 827 亿 IP 整合的底层逻辑,帕蒂·麦考德,no-match,false,0,metadata_not_matched
+125,纳瓦尔宝典,埃里克·乔根森,no-match,false,0,metadata_not_matched
+126,荆棘鸟,考琳·麦卡洛,no-match,false,0,metadata_not_matched
+127,反脆弱：从不确定性中获益,纳西姆·尼古拉斯·塔勒布,no-match,false,0,metadata_not_matched
+128,裸者与死者,[美]诺曼·梅勒,no-match,false,0,metadata_not_matched
+129,金雀花王朝：缔造英格兰的武士国王与王后,丹·琼斯,no-match,false,0,metadata_not_matched
+130,规训与惩罚,福柯,no-match,false,0,metadata_not_matched
+131,Antigone's Claim: Kinship Between Life and Death,Judith Butler,no-match,false,0,metadata_not_matched
+132,人的境况,汉娜·阿伦特,no-match,false,0,metadata_not_matched
+133,DK时间线上的全球史,英国DK公司,no-match,false,0,metadata_not_matched
+134,Steps to an Ecology of Mind,Gregory Bateson,no-match,false,0,metadata_not_matched
+135,科技想要什么,凯文·凯利,no-match,false,0,metadata_not_matched
+136,不确定世界的理性选择：判断与决策心理学,[美]雷德·海斯蒂,no-match,false,0,metadata_not_matched
+137,常识,托马斯·潘恩,no-match,false,0,metadata_not_matched
+138,城堡,卡夫卡,no-match,false,0,metadata_not_matched
+139,苦炼,玛格丽特·尤瑟纳尔,no-match,false,0,metadata_not_matched
+140,搏击俱乐部,查克·帕拉尼克,no-match,false,0,metadata_not_matched
+141,始于极限：女性主义往复书简,[日]上野千鹤子 [日]铃木凉美,no-match,false,0,metadata_not_matched
+142,数字城堡,[美]丹·布朗,no-match,false,0,metadata_not_matched
+143,项狄传,[英]劳伦斯·斯特恩,no-match,false,0,metadata_not_matched
+144,应得的权利：男性特权如何伤害女性,凯特·曼恩,no-match,false,0,metadata_not_matched
+145,永久记录,斯诺登,no-match,false,0,metadata_not_matched
+146,博弈论与经济行为,摩根斯顿 冯·诺伊曼,no-match,false,0,metadata_not_matched
+147,狐狸那时已是猎人,赫塔·米勒,no-match,false,0,metadata_not_matched
+148,镜与灯,艾布拉姆斯,no-match,false,0,metadata_not_matched
+149,生存的12条法则,乔丹·彼得森,no-match,false,0,metadata_not_matched
+150,逃避统治的艺术：东南亚高地的无政府主义历史,詹姆斯·C.斯科特,no-match,false,0,metadata_not_matched
+151,午夜之子,萨曼·鲁西迪,no-match,false,0,metadata_not_matched
+152,早起的奇迹：那些能够在早晨8:00前改变人生的秘密,Hal Elrod,no-match,false,0,metadata_not_matched
+153,"Man, Play and Games",Roger Caillois,no-match,false,0,metadata_not_matched
+154,Maps of Meaning,Jordan Peterson,no-match,false,0,metadata_not_matched
+155,Getting Things Done: The Art of Stress-Free Productivity,David Allen,no-match,false,0,metadata_not_matched
+156,Scaling Your Business with MOD Virtual Professionals,Daniel Ramsey,no-match,false,0,metadata_not_matched
+157,The Personal MBA,Josh Kaufman,no-match,false,0,metadata_not_matched
+158,The War of Art: Break Through the Blocks and Win Your Inner Creative Battles,Steven Pressfield,no-match,false,0,metadata_not_matched
+159,比虚构更离奇真实的故事 / STRANGER THAN FICTION TRUE STORIES,,no-match,false,0,metadata_not_matched
+160,不平等的童年,,no-match,false,0,metadata_not_matched
+161,错误的行为,,no-match,false,0,metadata_not_matched
+162,赢家的诅咒,,no-match,false,0,metadata_not_matched
+163,哈扎尔辞典,,no-match,false,0,metadata_not_matched
+164,黑书,,no-match,false,0,metadata_not_matched
+165,化身,,no-match,false,0,metadata_not_matched
+166,控制论与科学方法论,,no-match,false,0,metadata_not_matched
+167,理解漫画,,no-match,false,0,metadata_not_matched
+168,你的灯亮着吗,,no-match,false,0,metadata_not_matched
+169,撞车俱乐部,,no-match,false,0,metadata_not_matched
+170,蚱（游戏、生命与乌托邦）,,no-match,false,0,metadata_not_matched
+171,游戏引擎：游戏设计全景探秘,Tynan Sylvester,no-match,false,0,metadata_not_matched
+172,游戏化实战,,no-match,false,0,metadata_not_matched
+173,游戏设计艺术（第二版）,,no-match,false,0,metadata_not_matched
+1,有限与无限的游戏：一个哲学家眼中的竞技世界,[美]詹姆斯·卡斯,matched,true,2,q1_cluster_not_stable
+39,1493：物种大交换开创的世界史,[美]查尔斯·曼恩,matched,true,3,q1_cluster_not_stable
+47,社会学的想象力,[美]C.赖特·米尔斯,matched,true,2,q1_cluster_not_stable
+59,六论自发性：自主、尊严，以及有意义的工作和游戏,[美]詹姆斯·C.斯科特,matched,true,2,q1_cluster_not_stable
+68,普林斯顿微积分读本,阿德里安·班纳,matched,true,2,q1_cluster_not_stable
+82,从0到1：开启商业与未来的秘密,彼得·蒂尔 布莱克·马斯特斯,matched,true,2,q1_cluster_not_stable
+85,更富有、更睿智、更快乐：世界顶尖投资者是如何在市场和生活中实现双赢的,威廉·格林,matched,true,2,q1_cluster_not_stable

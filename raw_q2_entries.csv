@@ -1,0 +1,203 @@
+﻿raw_q2_id,book_id,title,author,q2_text,q2_status,source_basis,notes
+RQ2-0001,1,有限与无限的游戏：一个哲学家眼中的竞技世界,[美]詹姆斯·卡斯,《有限与无限的游戏》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0002,1,有限与无限的游戏：一个哲学家眼中的竞技世界,[美]詹姆斯·卡斯,竞争与合作在何种条件下会发生转换？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0003,2,具身认知：身体如何影响心智,盖伊·克莱斯顿,《具身认知》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0004,2,具身认知：身体如何影响心智,盖伊·克莱斯顿,该书提出了哪些可执行的偏差修正方法？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0005,3,What if？那些古怪又让人忧心的问题,兰道尔·门罗,《What if？那些古怪又让人忧心的问题》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0006,3,What if？那些古怪又让人忧心的问题,兰道尔·门罗,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0007,4,国家的视角：那些试图改善人类状况的项目是如何失败的,詹姆斯·C.斯科特,《国家的视角》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0008,4,国家的视角：那些试图改善人类状况的项目是如何失败的,詹姆斯·C.斯科特,这本书如何解释制度设计与执行之间的张力？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0009,5,诚实的信号,[美]阿莱克斯·彭特兰,《诚实的信号》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0010,5,诚实的信号,[美]阿莱克斯·彭特兰,该书给出了哪些识别反馈回路的具体方法？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0011,6,同步：秩序如何从混沌中涌现,斯蒂芬·斯托加茨,《同步》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0012,6,同步：秩序如何从混沌中涌现,斯蒂芬·斯托加茨,书中的案例如何揭示权力运作的具体机制？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0013,7,混合信号,尤里·格尼茨,《混合信号》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0014,7,混合信号,尤里·格尼茨,这本书如何说明局部优化会触发系统级副作用？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0015,8,想象的共同体,本尼迪克特·安德森,《想象的共同体》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0016,8,想象的共同体,本尼迪克特·安德森,书中的案例如何揭示权力运作的具体机制？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0017,9,自我分析与自我实现,卡伦·霍妮,《自我分析与自我实现》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0018,9,自我分析与自我实现,卡伦·霍妮,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0019,10,是我把你蠢哭了吗,迪安·博内特,《是我把你蠢哭了吗》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0020,10,是我把你蠢哭了吗,迪安·博内特,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0021,11,伊甸之东,[美]约翰·斯坦贝克,《伊甸之东》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0022,11,伊甸之东,[美]约翰·斯坦贝克,作品中的价值冲突如何映射现实处境？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0023,12,咨询的奥秘：寻求和提出建议的智慧,[美]杰拉尔德·M.温伯格,《咨询的奥秘》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0024,12,咨询的奥秘：寻求和提出建议的智慧,[美]杰拉尔德·M.温伯格,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0025,13,为什么：关于因果关系的新科学,[美]朱迪亚·珀尔 [美]达纳·麦肯齐,《为什么》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0026,13,为什么：关于因果关系的新科学,[美]朱迪亚·珀尔 [美]达纳·麦肯齐,书中的系统视角如何改变长期策略设计？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0027,17,什么是权力？,[德]韩炳哲,《什么是权力？》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0028,17,什么是权力？,[德]韩炳哲,该书指出了哪些会导致制度失灵的关键条件？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0029,18,夜莺与玫瑰,[英]奥斯卡·王尔德,《夜莺与玫瑰》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0030,18,夜莺与玫瑰,[英]奥斯卡·王尔德,这本书通过人物关系揭示了哪些核心冲突？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0031,19,复杂,梅拉妮·米歇尔,《复杂》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0032,19,复杂,梅拉妮·米歇尔,这本书如何说明局部优化会触发系统级副作用？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0033,20,规则的悖论,大卫·格雷伯,《规则的悖论》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0034,20,规则的悖论,大卫·格雷伯,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0035,21,人性中的善良天使：暴力为什么会减少,斯蒂芬·平克,《人性中的善良天使》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0036,21,人性中的善良天使：暴力为什么会减少,斯蒂芬·平克,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0037,22,自私的基因,理查德·道金斯,《自私的基因》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0038,22,自私的基因,理查德·道金斯,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0039,23,原型与集体无意识,[瑞士]卡尔·古斯塔夫·荣格,《原型与集体无意识》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0040,23,原型与集体无意识,[瑞士]卡尔·古斯塔夫·荣格,书中如何处理价值判断与行动选择之间的关系？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0041,24,项塔兰,[澳]格里高利·大卫·罗伯兹,《项塔兰》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0042,24,项塔兰,[澳]格里高利·大卫·罗伯兹,叙事结构如何影响读者对人物选择的理解？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0043,25,今日简史：人类命运大议题,尤瓦尔·赫拉利,《今日简史》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0044,25,今日简史：人类命运大议题,尤瓦尔·赫拉利,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0045,26,未来简史：从智人到智神,尤瓦尔·赫拉利,《未来简史》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0046,26,未来简史：从智人到智神,尤瓦尔·赫拉利,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0047,27,共时性：心灵与外部世界的有意义巧合,[瑞士]卡尔·古斯塔夫·荣格,《共时性》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0048,27,共时性：心灵与外部世界的有意义巧合,[瑞士]卡尔·古斯塔夫·荣格,书中如何处理价值判断与行动选择之间的关系？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0049,28,罐头厂街,约翰·斯坦贝克,《罐头厂街》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0050,28,罐头厂街,约翰·斯坦贝克,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0051,29,How to：如何不切实际地解决实际问题,兰道尔·门罗,《How to》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0052,29,How to：如何不切实际地解决实际问题,兰道尔·门罗,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0053,31,地下室手记,[俄]陀思妥耶夫斯基,《地下室手记》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0054,31,地下室手记,[俄]陀思妥耶夫斯基,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0055,32,弱者的武器,詹姆斯·C.斯科特,《弱者的武器》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0056,32,弱者的武器,詹姆斯·C.斯科特,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0057,33,背德者,[法]安德烈·纪德,《背德者》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0058,33,背德者,[法]安德烈·纪德,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0059,34,无穷的开始：世界进步的本源,戴维·多伊奇,《无穷的开始》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0060,34,无穷的开始：世界进步的本源,戴维·多伊奇,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0061,35,变化社会中的政治秩序,塞缪尔·P.亨廷顿,《变化社会中的政治秩序》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0062,35,变化社会中的政治秩序,塞缪尔·P.亨廷顿,该书指出了哪些会导致制度失灵的关键条件？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0063,35,变化社会中的政治秩序,塞缪尔·P.亨廷顿,这本书如何解释制度设计与执行之间的张力？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0064,36,从细菌到巴赫再回来,[美]丹尼尔·丹尼特,《从细菌到巴赫再回来》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0065,36,从细菌到巴赫再回来,[美]丹尼尔·丹尼特,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0066,37,我们为什么做出不利于自己的行为,马克·郭士顿 菲利普·戈德堡,《我们为什么做出不利于自己的行为》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0067,37,我们为什么做出不利于自己的行为,马克·郭士顿 菲利普·戈德堡,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0068,38,智人之上：从石器时代到 AI 时代的信息网络简史,[以]尤瓦尔·赫拉利,《智人之上》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0069,38,智人之上：从石器时代到 AI 时代的信息网络简史,[以]尤瓦尔·赫拉利,该书强调了哪些可复用的建模与评估原则？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0070,39,1493：物种大交换开创的世界史,[美]查尔斯·曼恩,《1493》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0071,39,1493：物种大交换开创的世界史,[美]查尔斯·曼恩,书中如何解释制度与社会行为的共演关系？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0072,39,1493：物种大交换开创的世界史,[美]查尔斯·曼恩,该书的历史论证对当下问题有什么可迁移价值？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0073,40,窄门,[法]安德烈·纪德,《窄门》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0074,40,窄门,[法]安德烈·纪德,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0075,41,直觉泵和其他思考工具：思维工具解析模型决策逻辑,丹尼尔·丹尼特,《直觉泵和其他思考工具》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0076,41,直觉泵和其他思考工具：思维工具解析模型决策逻辑,丹尼尔·丹尼特,这本书如何解释理性与非理性在决策中的互动？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0077,41,直觉泵和其他思考工具：思维工具解析模型决策逻辑,丹尼尔·丹尼特,这本书揭示了哪些稳定影响判断质量的心理机制？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0078,42,作为意志和表象的世界,阿图尔·叔本华,《作为意志和表象的世界》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0079,42,作为意志和表象的世界,阿图尔·叔本华,书中如何处理价值判断与行动选择之间的关系？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0080,42,作为意志和表象的世界,阿图尔·叔本华,该书与既有思想传统的分歧点在哪里？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0081,43,巴比伦最富有的人,[美]乔治·S.克拉森,《巴比伦最富有的人》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0082,43,巴比伦最富有的人,[美]乔治·S.克拉森,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0083,44,清醒思考的艺术,罗尔夫·多贝里,《清醒思考的艺术》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0084,44,清醒思考的艺术,罗尔夫·多贝里,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0085,45,焚舟纪,安吉拉·卡特,《焚舟纪》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0086,45,焚舟纪,安吉拉·卡特,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0087,46,卓越基因,[美]吉姆·柯林斯 比尔·拉齐尔,《卓越基因》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0088,46,卓越基因,[美]吉姆·柯林斯 比尔·拉齐尔,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0089,47,社会学的想象力,[美]C.赖特·米尔斯,《社会学的想象力》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0090,47,社会学的想象力,[美]C.赖特·米尔斯,该书的历史论证对当下问题有什么可迁移价值？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0091,48,凯列班与女巫：妇女、身体与原始积累,西尔维娅·费代里奇,《凯列班与女巫》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0092,48,凯列班与女巫：妇女、身体与原始积累,西尔维娅·费代里奇,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0093,49,萨德式女人：文化史的操练,安吉拉·卡特,《萨德式女人》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0094,49,萨德式女人：文化史的操练,安吉拉·卡特,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0095,50,罪与罚,陀思妥耶夫斯基,《罪与罚》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0096,50,罪与罚,陀思妥耶夫斯基,作品中的价值冲突如何映射现实处境？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0097,51,习惯的力量,查尔斯·都希格,《习惯的力量》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0098,51,习惯的力量,查尔斯·都希格,该书提出了哪些可执行的偏差修正方法？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0099,52,谣言：世界最古老的传媒,让-诺埃尔·卡普费雷,《谣言》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0100,52,谣言：世界最古老的传媒,让-诺埃尔·卡普费雷,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0101,53,善恶的彼岸,尼采,《善恶的彼岸》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0102,53,善恶的彼岸,尼采,该书与既有思想传统的分歧点在哪里？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0103,54,寻求灵魂的现代人,[瑞士]卡尔·古斯塔夫·荣格,《寻求灵魂的现代人》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0104,54,寻求灵魂的现代人,[瑞士]卡尔·古斯塔夫·荣格,书中如何处理价值判断与行动选择之间的关系？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0105,55,助推,[美]理查德·塞勒 [美]卡斯·桑斯坦,《助推》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0106,55,助推,[美]理查德·塞勒 [美]卡斯·桑斯坦,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0107,56,点燃理性的火焰,[瑞典]克里斯特·斯图马克,《点燃理性的火焰》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0108,56,点燃理性的火焰,[瑞典]克里斯特·斯图马克,这本书揭示了哪些稳定影响判断质量的心理机制？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0109,57,大师和玛格丽特,布尔加科夫,《大师和玛格丽特》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0110,57,大师和玛格丽特,布尔加科夫,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0111,58,紫与黑：K.J.帕克短篇小说集,K.J.帕克,《紫与黑》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0112,58,紫与黑：K.J.帕克短篇小说集,K.J.帕克,作品中的价值冲突如何映射现实处境？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0113,59,六论自发性：自主、尊严，以及有意义的工作和游戏,[美]詹姆斯·C.斯科特,《六论自发性》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0114,59,六论自发性：自主、尊严，以及有意义的工作和游戏,[美]詹姆斯·C.斯科特,竞争与合作在何种条件下会发生转换？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0115,60,噪声,[美]丹尼尔·卡尼曼 [法]奥利维耶·西博尼 [美]卡斯·R.桑斯坦,《噪声》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0116,60,噪声,[美]丹尼尔·卡尼曼 [法]奥利维耶·西博尼 [美]卡斯·R.桑斯坦,该书提出了哪些可执行的偏差修正方法？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0117,61,异类：不一样的成功启示录,[加]马尔科姆·格拉德威尔,《异类》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0118,61,异类：不一样的成功启示录,[加]马尔科姆·格拉德威尔,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0119,62,查令十字街84号,海莲·汉芙,《查令十字街84号》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0120,62,查令十字街84号,海莲·汉芙,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0121,63,涅朵奇卡：一个女人的一生,陀思妥耶夫斯基,《涅朵奇卡》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0122,63,涅朵奇卡：一个女人的一生,陀思妥耶夫斯基,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0123,64,大地之上,罗欣顿·米斯特里,《大地之上》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0124,64,大地之上,罗欣顿·米斯特里,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0125,66,爱玛,简·奥斯汀,《爱玛》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0126,66,爱玛,简·奥斯汀,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0127,68,普林斯顿微积分读本,阿德里安·班纳,《普林斯顿微积分读本》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0128,68,普林斯顿微积分读本,阿德里安·班纳,这本书提供了哪些可复用的问题拆解方法？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0129,69,绿灯,马修·麦康纳,《绿灯》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0130,69,绿灯,马修·麦康纳,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0131,70,谁动了我的奶酪,斯宾塞·约翰逊,《谁动了我的奶酪》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0132,70,谁动了我的奶酪,斯宾塞·约翰逊,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0133,71,谁动了我的奶酪2：走出迷宫,斯宾塞·约翰逊,《谁动了我的奶酪2》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0134,71,谁动了我的奶酪2：走出迷宫,斯宾塞·约翰逊,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0135,72,轻松主义：让关键的事情变得容易做,[美]格雷戈·麦吉沃恩,《轻松主义》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0136,72,轻松主义：让关键的事情变得容易做,[美]格雷戈·麦吉沃恩,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0137,73,审判,弗兰茨·卡夫卡,《审判》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0138,73,审判,弗兰茨·卡夫卡,叙事结构如何影响读者对人物选择的理解？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0139,74,原则,瑞·达利欧,《原则》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0140,74,原则,瑞·达利欧,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0141,75,坏消息不断,玛格丽特·阿特伍德,《坏消息不断》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0142,75,坏消息不断,玛格丽特·阿特伍德,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0143,76,温德米尔夫人的扇子,[英]奥斯卡·王尔德,《温德米尔夫人的扇子》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0144,76,温德米尔夫人的扇子,[英]奥斯卡·王尔德,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0145,78,焦虑的人,弗雷德里克·巴克曼,《焦虑的人》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0146,78,焦虑的人,弗雷德里克·巴克曼,这本书如何解释理性与非理性在决策中的互动？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0147,79,阿特拉斯耸耸肩,安·兰德,《阿特拉斯耸耸肩》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0148,79,阿特拉斯耸耸肩,安·兰德,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0149,81,一桩事先张扬的凶杀案,[哥]加西亚·马尔克斯,《一桩事先张扬的凶杀案》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0150,81,一桩事先张扬的凶杀案,[哥]加西亚·马尔克斯,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0151,82,从0到1：开启商业与未来的秘密,彼得·蒂尔 布莱克·马斯特斯,《从0到1》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0152,82,从0到1：开启商业与未来的秘密,彼得·蒂尔 布莱克·马斯特斯,该书提供了哪些应对不确定性的策略框架？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0153,83,两种孤独,[哥]加夫列尔·加西亚·马尔克斯 [秘]马里奥·巴尔加斯·略萨,《两种孤独》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0154,83,两种孤独,[哥]加夫列尔·加西亚·马尔克斯 [秘]马里奥·巴尔加斯·略萨,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0155,85,更富有、更睿智、更快乐：世界顶尖投资者是如何在市场和生活中实现双赢的,威廉·格林,《更富有、更睿智、更快乐》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0156,85,更富有、更睿智、更快乐：世界顶尖投资者是如何在市场和生活中实现双赢的,威廉·格林,该书提供了哪些应对不确定性的策略框架？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0157,86,精神与爱欲,[德]赫尔曼·黑塞,《精神与爱欲》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0158,86,精神与爱欲,[德]赫尔曼·黑塞,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0159,88,支配与抵抗艺术：潜隐剧本,詹姆斯·C.斯科特,《支配与抵抗艺术》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0160,88,支配与抵抗艺术：潜隐剧本,詹姆斯·C.斯科特,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0161,89,问题就是答案,阿兰·皮斯,《问题就是答案》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0162,89,问题就是答案,阿兰·皮斯,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0163,90,人工智能：现代方法,斯图尔特·罗素,《人工智能》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0164,90,人工智能：现代方法,斯图尔特·罗素,这本书如何连接数学抽象与工程实现？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0165,91,深度学习的数学,涌井良幸 涌井贞美,《深度学习的数学》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0166,91,深度学习的数学,涌井良幸 涌井贞美,该书强调了哪些可复用的建模与评估原则？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0167,92,Python深度学习,[美]弗朗索瓦·肖莱,《Python深度学习》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0168,92,Python深度学习,[美]弗朗索瓦·肖莱,这本书如何连接数学抽象与工程实现？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0169,92,Python深度学习,[美]弗朗索瓦·肖莱,该书强调了哪些可复用的建模与评估原则？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0170,93,深度学习进阶：自然语言处理,斋藤康毅,《深度学习进阶》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0171,93,深度学习进阶：自然语言处理,斋藤康毅,该书强调了哪些可复用的建模与评估原则？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0172,95,系统之美,德内拉·梅多斯,《系统之美》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0173,95,系统之美,德内拉·梅多斯,该书给出了哪些识别反馈回路的具体方法？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0174,96,农民的道义经济学：东南亚的反叛与生存,詹姆斯·C.斯科特,《农民的道义经济学》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0175,96,农民的道义经济学：东南亚的反叛与生存,詹姆斯·C.斯科特,书中的案例如何揭示权力运作的具体机制？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0176,97,细雪,[日]谷崎润一郎,《细雪》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0177,97,细雪,[日]谷崎润一郎,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0178,98,痴人之爱,[日]谷崎润一郎,《痴人之爱》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0179,98,痴人之爱,[日]谷崎润一郎,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0180,99,呼吸秋千,赫塔·米勒,《呼吸秋千》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0181,99,呼吸秋千,赫塔·米勒,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0182,100,德米安：彷徨少年时,[德]赫尔曼·黑塞,《德米安》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0183,100,德米安：彷徨少年时,[德]赫尔曼·黑塞,书中如何处理价值判断与行动选择之间的关系？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0184,101,荒原狼,[德]赫尔曼·黑塞,《荒原狼》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0185,101,荒原狼,[德]赫尔曼·黑塞,这本书通过人物关系揭示了哪些核心冲突？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0186,103,原则：应对变化中的世界秩序,瑞·达利欧,《原则》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0187,103,原则：应对变化中的世界秩序,瑞·达利欧,这本书如何解释制度设计与执行之间的张力？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0188,104,失控：全人类的最终命运和结局,凯文·凯利,《失控》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0189,104,失控：全人类的最终命运和结局,凯文·凯利,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0190,105,高效能人士的七个习惯,史蒂芬·柯维,《高效能人士的七个习惯》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0191,105,高效能人士的七个习惯,史蒂芬·柯维,该书提出了哪些可执行的偏差修正方法？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0192,106,社会契约论,[法]卢梭,《社会契约论》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0193,106,社会契约论,[法]卢梭,书中的案例如何揭示权力运作的具体机制？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0194,107,必然,[美]凯文·凯利,《必然》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0195,107,必然,[美]凯文·凯利,该书最值得追踪的论证链条是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0196,108,矩阵力量：线性代数全彩图解+微课+Python编程,姜伟生,《矩阵力量》这本书试图回答的核心问题是什么？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0197,108,矩阵力量：线性代数全彩图解+微课+Python编程,姜伟生,这本书如何连接数学抽象与工程实现？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0198,108,矩阵力量：线性代数全彩图解+微课+Python编程,姜伟生,该书强调了哪些可复用的建模与评估原则？,draft,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0199,109,格特露德,[德]赫尔曼·黑塞,《格特露德》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0200,109,格特露德,[德]赫尔曼·黑塞,作者试图反驳或修正什么常见观点？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0201,110,一间自己的房间,[英]伍尔夫,《一间自己的房间》这本书试图回答的核心问题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required
+RQ2-0202,110,一间自己的房间,[英]伍尔夫,这本书最核心的论题是什么？,needs-review,title-author-and-matched-metadata,auto-generated baseline; human refinement required

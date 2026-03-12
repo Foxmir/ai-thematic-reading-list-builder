@@ -1,0 +1,13 @@
+{
+  "total_rows": 173,
+  "metadata_status": {
+    "matched": 98,
+    "ambiguous-match": 1,
+    "no-match": 74
+  },
+  "metadata_ready_rows": 98,
+  "metadata_review_rows": 75,
+  "pending_metadata_rows": 0,
+  "finalized": true,
+  "processed_rows": 173
+}
